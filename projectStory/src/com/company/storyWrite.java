@@ -15,7 +15,7 @@ import java.io.*;
  *
  */
 
-public class storyWrite {
+public class StoryWrite {
 
     /*
     The method article returns the appropriate article for word ("a" or "an").

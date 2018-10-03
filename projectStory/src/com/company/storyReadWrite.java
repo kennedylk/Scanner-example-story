@@ -15,7 +15,7 @@ import java.io.*;
  *
  */
 
-public class storyReadWrite {
+public class StoryReadWrite {
 
     public static String article(String word) {
         char firstChar = word.charAt(0);
